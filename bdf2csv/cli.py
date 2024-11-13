@@ -1,5 +1,5 @@
 import click
-from main import main
+from bdf2csv.main import main
 
 
 @click.command()
